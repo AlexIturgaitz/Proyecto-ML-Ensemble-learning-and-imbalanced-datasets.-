@@ -41,7 +41,7 @@ The project follows these main steps:
 
 3. **Modeling**
    - Baseline models (Logistic Regression, Decision Tree)
-   - Ensemble methods (Random Forest, Extra Trees, Gradient Boosting, AdaBoost, XGBoost)
+   - Ensemble methods (Random Forest, Gradient Boosting, AdaBoost, XGBoost)
 
 4. **Hyperparameter Tuning**
    - Optuna with cross-validation
